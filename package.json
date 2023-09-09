@@ -1,0 +1,14 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+  "description": "Initial setup follower for NamsteJS ingnite video",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rushikesh Chougule",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
